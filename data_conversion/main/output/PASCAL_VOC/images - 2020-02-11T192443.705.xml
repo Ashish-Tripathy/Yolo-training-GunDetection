@@ -1,0 +1,50 @@
+<annotation>
+  <folder>input</folder>
+  <filename>images - 2020-02-11T192443.705.jpg</filename>
+  <path>E:\Personal_Files\Code\Yolo-Training-GoogleColab\data_converstion\main\input\images - 2020-02-11T192443.705.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>276</width>
+    <height>182</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>65</ymin>
+      <xmax>267</xmax>
+      <ymax>173</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>85</ymin>
+      <xmax>110</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>60</xmin>
+      <ymin>136</ymin>
+      <xmax>139</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+</annotation>

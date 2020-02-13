@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>images (2).jpg</filename>
+  <path>E:\Personal_Files\Code\Yolo-Training-GoogleColab\data_converstion\main\input\images (2).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>275</width>
+    <height>184</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>68</ymin>
+      <xmax>221</xmax>
+      <ymax>168</ymax>
+    </bndbox>
+  </object>
+</annotation>

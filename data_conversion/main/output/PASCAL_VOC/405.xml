@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>405.jpg</filename>
+  <path>C:\Users\i347956\OneDrive - SAP SE\Documents\Research and Help Documents\EIP\Yolo new\Yolo-training-GunDetection\data_conversion\main\input\405.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>392</width>
+    <height>129</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>33</ymin>
+      <xmax>351</xmax>
+      <ymax>76</ymax>
+    </bndbox>
+  </object>
+</annotation>

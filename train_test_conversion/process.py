@@ -5,7 +5,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 print(current_dir)
 
-current_dir = '../data'
+current_dir = '/content/darknet/data_for_colab/data'
 
 # Directory where the data will reside, relative to 'darknet.exe'
 #path_data = './NFPAdataset/'
@@ -29,3 +29,6 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):
     else:
         file_train.write(current_dir + "/" + title + '.jpg' + "\n")
         counter = counter + 1
+
+file_train.close()
+file_test.close()

@@ -24,7 +24,6 @@
 /content/darknet/data_for_colab/data/20.jpg
 /content/darknet/data_for_colab/data/21.jpg
 /content/darknet/data_for_colab/data/24 (2).jpg
-/content/darknet/data_for_colab/data/24.jpg
 /content/darknet/data_for_colab/data/25.jpg
 /content/darknet/data_for_colab/data/26 (2).jpg
 /content/darknet/data_for_colab/data/26.jpg
@@ -36,7 +35,6 @@
 /content/darknet/data_for_colab/data/29.jpg
 /content/darknet/data_for_colab/data/33 (2).jpg
 /content/darknet/data_for_colab/data/33.jpg
-/content/darknet/data_for_colab/data/34.jpg
 /content/darknet/data_for_colab/data/35 (2).jpg
 /content/darknet/data_for_colab/data/35.jpg
 /content/darknet/data_for_colab/data/36.jpg

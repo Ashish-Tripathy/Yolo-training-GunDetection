@@ -15,5 +15,5 @@ The steps includes:
 5. Obtain the model weights.
 6. Test the model.
 
-![yolo-google-colab](https://user-images.githubusercontent.com/10113553/55483057-71968c00-5643-11e9-8f72-c013e9a40dc7.jpg)
+![yolo-google-colab](https://i.imgur.com/b9UZIex.png)
 

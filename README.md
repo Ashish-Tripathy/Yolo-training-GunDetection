@@ -1,5 +1,7 @@
 # Yolo-Training-GoogleColab
-![yolo](https://user-images.githubusercontent.com/10113553/55484056-6a707d80-5645-11e9-919f-089026e82136.gif)
+![yolo](https://gph.is/g/EqGnK9w)
+
+The entire repo is inspired from https://github.com/rafiuddinkhan/Yolo-Training-GoogleColab/ .
 
 Custom tiny-yolo-v3 training using your own dataset and testing the results using the google colaboratory.
 Object detection using yolo algorithms and training your own model and obtaining the weights file using google colab 

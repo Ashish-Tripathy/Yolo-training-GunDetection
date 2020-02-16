@@ -1,5 +1,5 @@
 # Yolo-Training-GoogleColab
-![yolo](https://gph.is/g/EqGnK9w)
+![yolo](https://media.giphy.com/media/TFCEbukKRcYKhsSuYS/giphy.gif)
 
 The entire repo is inspired from https://github.com/rafiuddinkhan/Yolo-Training-GoogleColab/ .
 
